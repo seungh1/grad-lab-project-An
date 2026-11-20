@@ -20,3 +20,7 @@ QE repo for IMGS 609
 #### Next Steps
 - Goal for next week: Upload baseline algorithm code to repo
 
+#### Reflection
+- A commit is a snapshot of the documents or code. As a save function, it allows one to go back to historical commits to see changes and description of the changes in code.
+- A branch allows one to edit any files in the project without interrupting the main codebase. While the main branch is at production, another branch can be used to collaborate with other users and experiment with changes to the code.
+- An issue is identifying tasks to do such as fixing a bug while a pull request is a request to merge edits to the codebase with the main branch through review.
